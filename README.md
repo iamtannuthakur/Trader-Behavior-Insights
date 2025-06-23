@@ -19,7 +19,7 @@ Both datasets were merged using the date_only column.
 
 🔍 Key Insights:
 
-1️⃣ Trading Volume Distribution (Fear vs Greed):
+1️⃣ Trading Volume Distribution:
 The number of trades was fairly balanced between Fear and Greed days.
 
 However, Greed days saw slightly higher volume per trade, indicating higher risk appetite.
@@ -36,19 +36,17 @@ Fear days showed more consistent PnL with fewer extreme spikes.
 
 Recommendation: Risk management is critical on Greed days.
 
-4️⃣ Top Trader Behavior:
-Some accounts consistently performed better during Greed days, showing strong momentum trading.
+4️⃣ Top 10 Traders by Profit on Greed Days:
+A small group of traders earned significant profits on Greed days.
 
-These top traders had higher leverage usage and bigger position sizes.
+These traders appear to follow momentum or aggressive strategies.
 
-5️⃣ Size USD vs PnL Scatter Plot:
-A noticeable trend: larger trades resulted in wider PnL swings, especially on Greed days.
+5️⃣ Top 15 Most Active Traders (by Number of Trades):
+Several accounts are consistently active, executing a high number of trades.
 
-Smaller trades remained more stable during Fear periods.
+This suggests the use of automated or high-frequency strategies.
 
-6️⃣ Daily PnL Trends:
-Using date-wise aggregation, we observed that:
+6️⃣ Buy vs Sell Activity by Sentiment:
+Buy trades increase during Greed days, showing trader optimism.
 
-Profitable streaks often align with Fear days.
-
-Loss streaks are often triggered after consecutive Greed days.
+Fear days see a slight rise in Sell activity, reflecting cautious, risk-off behavior.
